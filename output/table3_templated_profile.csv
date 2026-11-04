@@ -1,0 +1,3 @@
+traffic,turns,share_of_turns_pct,clusters,conversations,distinct_senders,user_words_median,user_words_mean,user_words_sd,assistant_words_median,assistant_words_mean,assistant_words_sd,Validation_mean,Validation_sd,Agree_mean,Agree_sd,Disagree_mean,Disagree_sd,Flatter_mean,Flatter_sd,Enthusiasm_mean,Enthusiasm_sd,Positive affirmation_mean,Positive affirmation_sd
+Ordinary,39076,59.8,20444,20300,12946,28.0,335.0,2465.0,127.0,242.0,389.0,3.95,3.05,8.66,2.64,0.96,2.07,1.71,1.95,4.04,2.62,3.46,3.37
+Templated,26216,40.2,21721,17697,13530,185.0,746.0,3854.0,11.0,71.0,172.0,3.62,3.79,9.24,1.7,0.85,2.02,1.3,2.22,3.85,3.15,3.12,3.9

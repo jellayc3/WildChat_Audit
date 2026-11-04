@@ -1,0 +1,4 @@
+window,window_turns,templated_turns,templated_share_pct,n_templates_present,dominant_template_id,dominant_turns,dominant_share_of_templated_pct,dominant_share_of_window_pct,dominant_validation_mean
+baseline Apr15-23,2077,1276,61.4,38,5013,367,28.8,17.7,0.38
+event Apr25-27,442,381,86.2,25,5675,252,66.1,57.0,7.19
+post May1-14,4054,2395,59.1,55,4076,981,41.0,24.2,3.01

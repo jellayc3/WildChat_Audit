@@ -1,0 +1,8 @@
+criterion,all_traffic_uncorrected,all_traffic_bh,all_traffic_n_pairs,templated_removed_uncorrected,templated_removed_bh,templated_removed_n_pairs
+Validation,2,2,8,5,2,8
+Agree,1,1,8,1,1,8
+Disagree,3,1,8,3,1,8
+Flatter,4,3,8,4,3,8
+Enthusiasm,2,2,8,4,4,8
+Positive affirmation,2,1,8,6,3,8
+Holistic (1-5),4,2,8,4,2,8

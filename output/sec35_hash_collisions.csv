@@ -1,0 +1,5 @@
+scope,hashes_with_5plus_senders,largest_hash_turns,largest_hash_senders
+event sample,93,583,583
+baseline Apr15-23,5,179,179
+event Apr25-27,0,19,1
+post May1-14,13,527,527

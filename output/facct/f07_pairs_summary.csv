@@ -1,0 +1,17 @@
+pair,traffic,overlap_start,overlap_end,n_a,n_b,criteria_sep_bh,criteria_sep_bh_and_perm,max_abs_d
+gpt-3.5-turbo-0301 vs gpt-4-0314,all,2023-04-09,2023-06-24,1560,230,4,4,0.5814
+gpt-3.5-turbo-0613 vs gpt-4-1106-preview,all,2023-11-06,2024-02-16,533,447,0,0,0.1361
+gpt-3.5-turbo-0125 vs gpt-4-0125-preview,all,2024-03-14,2024-05-06,283,602,0,0,0.2915
+gpt-3.5-turbo-0125 vs gpt-4-turbo-2024-04-09,all,2024-05-07,2024-07-07,320,180,0,0,0.2583
+gpt-4-turbo-2024-04-09 vs gpt-4o-2024-05-13,all,2024-05-13,2024-07-07,121,412,0,0,0.2303
+gpt-3.5-turbo-0125 vs gpt-4o-2024-05-13,all,2024-05-13,2024-08-06,369,829,0,0,0.2927
+gpt-4o-2024-08-06 vs gpt-4o-mini-2024-07-18,all,2024-08-07,2024-11-20,4086,388,3,2,0.4676
+gpt-4o-2024-11-20 vs gpt-4o-mini-2024-07-18,all,2024-12-01,2025-01-05,346,551,3,2,1.0567
+gpt-3.5-turbo-0301 vs gpt-4-0314,templated_removed,2023-04-09,2023-06-24,1560,230,4,0,0.5814
+gpt-3.5-turbo-0613 vs gpt-4-1106-preview,templated_removed,2023-11-06,2024-02-16,475,447,1,0,0.3102
+gpt-3.5-turbo-0125 vs gpt-4-0125-preview,templated_removed,2024-03-14,2024-05-06,233,602,0,0,0.4561
+gpt-3.5-turbo-0125 vs gpt-4-turbo-2024-04-09,templated_removed,2024-05-07,2024-07-07,239,180,0,0,0.4389
+gpt-4-turbo-2024-04-09 vs gpt-4o-2024-05-13,templated_removed,2024-05-13,2024-07-07,121,412,0,0,0.2303
+gpt-3.5-turbo-0125 vs gpt-4o-2024-05-13,templated_removed,2024-05-13,2024-08-06,264,829,0,0,0.4044
+gpt-4o-2024-08-06 vs gpt-4o-mini-2024-07-18,templated_removed,2024-08-07,2024-11-20,4086,335,5,0,0.4789
+gpt-4o-2024-11-20 vs gpt-4o-mini-2024-07-18,templated_removed,2024-12-01,2025-01-05,346,551,4,0,1.0567

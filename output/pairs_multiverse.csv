@@ -1,0 +1,8 @@
+criterion,median_pairs,min_pairs,max_pairs,mean_pairs
+Validation,2.0,2,6,2.78
+Agree,1.0,1,2,1.22
+Disagree,1.0,1,2,1.22
+Flatter,4.0,3,4,3.76
+Enthusiasm,3.0,2,5,3.19
+Positive affirmation,2.5,1,6,3.46
+Holistic (1-5),2.0,2,4,2.31

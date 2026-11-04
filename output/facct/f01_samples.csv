@@ -1,0 +1,5 @@
+sample,turns_drawn,turns_scored,clusters,conversations,senders,first,last,weeks,clusters_per_week_median,clusters_per_week_min
+Event sample (12B),65292,65292,42165,37997,26364,2024-11-01,2025-07-31,37,1111.0,683
+Trend sample (12B),16878,16878,9837,9837,7854,2023-04-09,2025-07-31,119,47.0,5
+Ordinary Draw A (27B),80468,80143,36609,36397,23218,2024-11-01,2025-07-31,37,991.0,715
+Ordinary Draw B (27B),79474,79402,36897,36825,23214,2024-11-01,2025-07-31,37,990.0,717

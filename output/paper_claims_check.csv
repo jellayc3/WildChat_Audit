@@ -1,0 +1,82 @@
+section,printed,recomputed,result,note
+Abstract,27% to 66%,27% to 66%,PASS,
+Fig. 1,−0.90 / 0.99,−0.90 / 0.99,PASS,
+Abstract,"324 alternative analyses, all positive and significant","324 alternative analyses, all positive and significant",PASS,
+Table 1,"80,143","80,143",PASS,Ordinary Draw A (27B) turns_scored
+Table 1,"36,397","36,397",PASS,Ordinary Draw A (27B) conversations
+Table 1,"23,218","23,218",PASS,Ordinary Draw A (27B) senders
+Table 1,"79,402","79,402",PASS,Ordinary Draw B (27B) turns_scored
+Table 1,"36,825","36,825",PASS,Ordinary Draw B (27B) conversations
+Table 1,"23,214","23,214",PASS,Ordinary Draw B (27B) senders
+Table 1,"65,292","65,292",PASS,Event sample (12B) turns_scored
+Table 1,"37,997","37,997",PASS,Event sample (12B) conversations
+Table 1,"26,364","26,364",PASS,Event sample (12B) senders
+3.3,33 of the 273 days,33 of the 273 days,PASS,
+3.4,"3,298 turns; r = 0.68; 69% within one point; 1.09 lower","3,298 turns; r = 0.68; 69% within one point; 1.09 lower",PASS,
+3.4,weekly r = 0.81 across 37 weeks,weekly r = 0.81 across 37 weeks,PASS,
+3.5,"about 2,150 turns per week","about 2,150 turns per week",PASS,"A 2,166, B 2,146"
+3.5,final bin covers July 29–31,final bin covers July 29–31,PASS,
+3.5,93 hashes; 583 turns from 583 senders,93 hashes; 583 turns from 583 senders,PASS,
+4.1,"−0.90 [−2.94, 1.14], d = −0.27","−0.90 [−2.94, 1.14], d = −0.27",PASS,
+4.1,one sender produces 39% of post-rollback turns,one sender produces 39% of post-rollback turns,PASS,
+4.1,−0.81 and −0.42; no all-traffic change survives correction,−0.81 and −0.42; no all-traffic change survives correction,PASS,
+4.1,"−0.206 [−0.401, −0.011]","−0.206 [−0.401, −0.011]",PASS,
+4.1,"26.5% before April 15, 66.0% after","26.5% before April 15, 66.0% after",PASS,
+4.1,"29 templates, 0.01 to 9.62","29 templates, 0.01 to 9.62",PASS,
+4.1,four of the six criteria flag April 22–27,four of the six criteria flag April 22–27,PASS,
+4.1,all six criteria change significantly in the event window,all six criteria change significantly in the event window,PASS,
+4.1,61.4% to 86.2%; one client 57.0%,61.4% to 86.2%; one client 57.0%,PASS,
+4.1,no criterion increases significantly at any threshold,no criterion increases significantly at any threshold,PASS,
+4.1,PELT no longer flags that week,PELT no longer flags that week,PASS,
+4.2,"2.76 to 3.75; +0.99 [0.76, 1.22], d = 0.40","2.76 to 3.75; +0.99 [0.76, 1.22], d = 0.40",PASS,
+4.2,"Draw B +1.01 [0.80, 1.22]","Draw B +1.01 [0.80, 1.22]",PASS,
+4.2,r = 0.945 across 37 weeks; 0.15 apart,r = 0.945 across 37 weeks; 0.15 apart,PASS,
+4.2,"324 specifications, 0.74 to 1.56","324 specifications, 0.74 to 1.56",PASS,
+4.2,0.059 and 0.055 per week,0.059 and 0.055 per week,PASS,
+4.2,"weekly means 0.075 [0.036, 0.113] and 0.065 [0.042, 0.088]","weekly means 0.075 [0.036, 0.113] and 0.065 [0.042, 0.088]",PASS,
+4.2,non-English 0.082 and 0.060,non-English 0.082 and 0.060,PASS,
+4.2,"English 0.022 [−0.014, 0.058] and 0.037 [−0.009, 0.083]; weekly 0.032 and 0.034","English 0.022 [−0.014, 0.058] and 0.037 [−0.009, 0.083]; weekly 0.032 and 0.034",PASS,
+4.2,"turn-level breaks Apr 15, Apr 29, May 20 in both draws; cluster means break in April in Draw B only","turn-level breaks Apr 15, Apr 29, May 20 in both draws; cluster means break in April in Draw B only",PASS,
+4.2,dip about 0.6; 8–12% of window pairs before April 15,dip about 0.6; 8–12% of window pairs before April 15,PASS,
+Table 3,"+0.99 [0.76, 1.22] | +1.01 [0.80, 1.22]","+0.99 [0.76, 1.22] | +1.01 [0.80, 1.22]",PASS,Main
+Table 3,"+0.96 [0.61, 1.31] | +1.01 [0.67, 1.35]","+0.96 [0.61, 1.31] | +1.01 [0.67, 1.35]",PASS,Before = Mar 1-Apr 14
+Table 3,"+1.07 [0.77, 1.37] | +1.10 [0.83, 1.38]","+1.07 [0.77, 1.37] | +1.10 [0.83, 1.38]",PASS,Cluster mean
+Table 3,"+1.07 [0.77, 1.37] | +1.11 [0.83, 1.38]","+1.07 [0.77, 1.37] | +1.11 [0.83, 1.38]",PASS,First turn
+Table 3,"+0.86 [0.73, 1.00] | +0.89 [0.76, 1.02]","+0.86 [0.73, 1.00] | +0.89 [0.76, 1.02]",PASS,Log reply length
+Table 3,"+0.95 [0.81, 1.09] | +0.99 [0.86, 1.12]","+0.95 [0.81, 1.09] | +0.99 [0.86, 1.12]",PASS,Log user + reply length
+Table 3,"+1.00 [0.77, 1.22] | +1.00 [0.79, 1.20]","+1.00 [0.77, 1.22] | +1.00 [0.79, 1.20]",PASS,Threshold < 20
+Table 3,"+1.06 [0.87, 1.25] | +1.06 [0.87, 1.26]","+1.06 [0.87, 1.25] | +1.06 [0.87, 1.26]",PASS,Threshold < 5
+Table 3,"+1.08 [0.85, 1.30] | +1.08 [0.87, 1.28]","+1.08 [0.85, 1.30] | +1.08 [0.87, 1.28]",PASS,After = May 13-Jul 31
+Table 3,"+1.11 [0.87, 1.35] | +1.13 [0.91, 1.35]","+1.11 [0.87, 1.35] | +1.13 [0.91, 1.35]",PASS,After = Jun 1-Jul 31
+Table 3,"+1.01 [0.78, 1.23] | +1.01 [0.80, 1.22]","+1.01 [0.78, 1.23] | +1.01 [0.80, 1.22]",PASS,empty openers dropped
+Table 3,"+1.00 [0.50, 1.50] | +1.09 [0.66, 1.51]","+1.00 [0.50, 1.50] | +1.09 [0.66, 1.51]",PASS,English only
+Table 3,"+0.82 [0.63, 1.02] | +0.87 [0.68, 1.06]","+0.82 [0.63, 1.02] | +0.87 [0.68, 1.06]",PASS,mix held fixed
+Table 3,"+0.46 [0.14, 0.79] | +0.38 [0.02, 0.75]","+0.46 [0.14, 0.79] | +0.38 [0.02, 0.75]",PASS,"returning IPs, equal weight"
+Table 3,+0.74 to +1.53 | +0.80 to +1.56,+0.74 to +1.53 | +0.80 to +1.56,PASS,
+Table 3,"+0.059 [0.031, 0.087] | +0.055 [0.024, 0.086]","+0.059 [0.031, 0.087] | +0.055 [0.024, 0.086]",PASS,slope raw
+Table 3,"+0.042 [0.017, 0.067] | +0.039 [0.012, 0.067]","+0.042 [0.017, 0.067] | +0.039 [0.012, 0.067]",PASS,slope + log assistant words
+Table 3,"+0.050 [0.025, 0.075] | +0.046 [0.019, 0.073]","+0.050 [0.025, 0.075] | +0.046 [0.019, 0.073]",PASS,slope + log assistant words + language
+Table 3,"+0.063 [0.035, 0.090] | +0.060 [0.032, 0.088]","+0.063 [0.035, 0.090] | +0.060 [0.032, 0.088]",PASS,slope + log user & assistant words + language + turn index
+Table 3,"+0.022 [−0.014, 0.058] | +0.037 [−0.009, 0.083]","+0.022 [−0.014, 0.058] | +0.037 [−0.009, 0.083]",PASS,slope English
+Table 3,"+0.032 [0.007, 0.056] | +0.022 [−0.006, 0.050]","+0.032 [0.007, 0.056] | +0.022 [−0.006, 0.050]",PASS,slope mix held fixed
+Table 3,"+0.075 [0.036, 0.113] | +0.065 [0.042, 0.088]","+0.075 [0.036, 0.113] | +0.065 [0.042, 0.088]",PASS,weekly means
+Table 3,"+0.032 [0.010, 0.055] | +0.034 [0.008, 0.061]","+0.032 [0.010, 0.055] | +0.034 [0.008, 0.061]",PASS,"weekly means, English"
+4.3,"167 of 13,650 and 194 of 13,654 IPs; about one-fifth of post-rollback turns","167 of 13,650 and 194 of 13,654 IPs; about one-fifth of post-rollback turns",PASS,
+4.3,"+1.11 [0.49, 1.73] and +1.07 [0.35, 1.79]","+1.11 [0.49, 1.73] and +1.07 [0.35, 1.79]",PASS,
+4.3,"five heaviest IPs produce half; without them +0.36 [−0.12, 0.84] and +0.11 [−0.44, 0.66]","five heaviest IPs produce half; without them +0.36 [−0.12, 0.84] and +0.11 [−0.44, 0.66]",PASS,
+4.3,"0.46 [0.14, 0.79] and 0.38 [0.02, 0.75]; 64% and 58% higher","0.46 [0.14, 0.79] and 0.38 [0.02, 0.75]; 64% and 58% higher",PASS,
+Table 2,−0.90 (d = −0.27) † | +0.96 (d = +0.32) | +0.064 †,−0.90 (d = −0.27) † | +0.96 (d = +0.32) | +0.064 †,PASS,Validation
+Table 2,+0.36 (d = +0.15) † | +0.21 (d = +0.08) | −0.030 †,+0.36 (d = +0.15) † | +0.21 (d = +0.08) | −0.030 †,PASS,Agree
+Table 2,−0.04 (d = −0.02) † | +0.06 (d = +0.03) † | +0.045 †,−0.04 (d = −0.02) † | +0.06 (d = +0.03) † | +0.045 †,PASS,Disagree
+Table 2,−0.04 (d = −0.02) † | +0.59 (d = +0.31) | +0.039 †,−0.04 (d = −0.02) † | +0.59 (d = +0.31) | +0.039 †,PASS,Flatter
+Table 2,−0.42 (d = −0.15) † | +0.75 (d = +0.29) | +0.044 †,−0.42 (d = −0.15) † | +0.75 (d = +0.29) | +0.044 †,PASS,Enthusiasm
+Table 2,−0.81 (d = −0.23) † | +0.96 (d = +0.29) | +0.082 †,−0.81 (d = −0.23) † | +0.96 (d = +0.29) | +0.082 †,PASS,Positive affirmation
+Table 2,+0.10 (d = +0.14) † | −0.08 (d = −0.12) † | −0.006 †,+0.10 (d = +0.14) † | −0.08 (d = −0.12) † | −0.006 †,PASS,Holistic (1-5)
+4.4,d = 0.23–0.36,d = 0.23–0.36,PASS,
+4.4,no criterion shows a significant post-rollback trend,no criterion shows a significant post-rollback trend,PASS,
+5/6.2,1.6 to 4.0; 33% to 63% (Draw A),1.6 to 4.0; 33% to 63% (Draw A),PASS,
+6.2,returning users rise by about 0.4 points,returning users rise by about 0.4 points,PASS,
+6.2,"several models until January 5, 2025","several models until January 5, 2025",PASS,
+6.2,"+0.26 [−0.24, 0.76] and −0.32 [−0.68, 0.04]","+0.26 [−0.24, 0.76] and −0.32 [−0.68, 0.04]",PASS,
+Table expl.,thresholds +0.99 to +1.06; Draw B +1.01; Mar 1 +0.96/+1.01; conversation-level +1.07 to +1.11; reply length +0.86/+0.89; English +1.00/+1.09; returning 0.46/0.38,thresholds +0.99 to +1.06; Draw B +1.01; Mar 1 +0.96/+1.01; conversation-level +1.07 to +1.11; reply length +0.86/+0.89; English +1.00/+1.09; returning 0.46/0.38,PASS,
+Limitations,7.5–8.2% of turns,7.5–8.2% of turns,PASS,

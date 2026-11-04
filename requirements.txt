@@ -1,0 +1,17 @@
+# Analysis stages (1-4). These are the exact versions the shipped outputs and
+# figures were built with, on Python 3.13.
+#
+# REQUIRES PYTHON 3.12 OR NEWER. numpy 2.5 publishes no wheel for 3.11 or
+# earlier, so `pip install -r requirements.txt` fails outright on 3.11.
+pandas==3.0.5
+numpy==2.5.3
+pyarrow==26.0.0
+scipy==1.18.1
+statsmodels==0.15.0
+ruptures==1.1.10
+matplotlib==3.11.2
+
+# Stage 0 only (sampling and annotation). Not needed to reproduce any table or
+# figure; see stage0_annotation/README.md.
+datasets>=2.19
+requests>=2.31

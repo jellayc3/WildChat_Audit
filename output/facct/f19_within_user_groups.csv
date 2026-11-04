@@ -1,0 +1,9 @@
+draw,group,mean
+A,leavers (before),2.8049530216912193
+A,returning (before),2.5539135194307607
+A,returning (after),4.0207200587803085
+A,joiners (after),3.683757880543712
+B,leavers (before),2.7527564411439585
+B,returning (before),2.5425943207572326
+B,returning (after),3.9637834036568216
+B,joiners (after),3.6773135449934244

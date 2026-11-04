@@ -1,0 +1,13 @@
+check,value
+event: first row per conversation is its first turn,1.0
+Draw A: first row per conversation is its first turn,1.0
+Draw A: upstream count >= within-draw count (share of conversations),0.997402
+openers with upstream count 5-19: n shared with event sample,574.0
+openers with upstream count 5-19: median count within event sample,1.0
+openers with upstream count 5-19: median count within Draw A,1.0
+openers with upstream count 20-49: n shared with event sample,393.0
+openers with upstream count 20-49: median count within event sample,1.0
+openers with upstream count 20-49: median count within Draw A,2.0
+openers with upstream count 50-99: n shared with event sample,329.0
+openers with upstream count 50-99: median count within event sample,1.0
+openers with upstream count 50-99: median count within Draw A,2.0

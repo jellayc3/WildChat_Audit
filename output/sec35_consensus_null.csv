@@ -1,0 +1,4 @@
+threshold,null_rate_per_week_pct,expected_weeks_per_series,observed_weeks
+>= 2 of 6 criteria,5.93,2.19,7
+>= 3 of 6 criteria,2.27,0.84,3
+>= 4 of 6 criteria,0.69,0.26,2

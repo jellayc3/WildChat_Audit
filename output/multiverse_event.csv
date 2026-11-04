@@ -1,0 +1,1009 @@
+criterion,baseline,event,traffic,unit,adjust,n_base,n_event,d,p,spec,p_bh
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,none,2073,441,0.569276,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,none,2073,441,-0.283303,3.4e-05,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|none,3.4e-05
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,none,2073,441,0.658872,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,none,2073,441,0.684356,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,none,2073,441,0.659088,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,none,2073,441,0.72369,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,none,2073,441,-0.770164,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user len,2073,441,0.430987,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user len,2073,441,-0.419356,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user len,2073,441,0.419361,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user len,2073,441,0.544586,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user len,2073,441,0.535096,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user len,2073,441,0.574441,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user len,2073,441,-0.503189,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user+asst len,2073,441,0.514294,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user+asst len,2073,441,-0.382549,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user+asst len,2073,441,0.40494,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user+asst len,2073,441,0.545854,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user+asst len,2073,441,0.612367,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user+asst len,2073,441,0.603446,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),turn,log user+asst len,2073,441,-0.472432,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,none,1502,415,0.592754,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,none,1502,415,-0.529558,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,none,1502,415,0.705104,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,none,1502,415,0.764018,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,none,1502,415,0.737142,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,none,1502,415,0.82058,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,none,1502,415,-0.883028,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user len,1502,415,0.370337,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user len,1502,415,-0.549139,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user len,1502,415,0.407847,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user len,1502,415,0.506675,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user len,1502,415,0.47774,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user len,1502,415,0.545371,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user len,1502,415,-0.524777,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1502,415,0.469927,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1502,415,-0.4864,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1502,415,0.359765,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1502,415,0.462921,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1502,415,0.559606,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1502,415,0.531498,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1502,415,-0.443018,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,none,1502,415,0.578465,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,none,1502,415,-0.504146,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,none,1502,415,0.713044,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,none,1502,415,0.777089,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,none,1502,415,0.721414,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,none,1502,415,0.812167,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,none,1502,415,-0.895518,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1502,415,0.35573,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1502,415,-0.52621,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1502,415,0.410479,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1502,415,0.501731,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1502,415,0.462437,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1502,415,0.515024,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1502,415,-0.53107,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1502,415,0.456933,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1502,415,-0.451736,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1502,415,0.349143,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Flatter,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1502,415,0.446765,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1502,415,0.541438,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1502,415,0.496165,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1502,415,-0.424972,0.0,Apr15-23 (paper)|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,none,801,61,-0.1632,0.269447,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.394036
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,none,801,61,0.013845,0.938011,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.979297
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,none,801,61,0.003543,0.979297,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.979297
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,none,801,61,-0.173618,0.281454,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.394036
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,none,801,61,-0.162244,0.263533,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.394036
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,none,801,61,-0.225562,0.147776,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.394036
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,none,801,61,0.16772,0.269622,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.394036
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user len,801,61,-0.226009,0.129093,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.253288
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user len,801,61,-0.021589,0.895948,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.895948
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user len,801,61,-0.055999,0.680564,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.793992
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user len,801,61,-0.228724,0.18092,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.253288
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user len,801,61,-0.226603,0.125057,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.253288
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user len,801,61,-0.311119,0.045017,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.253288
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user len,801,61,0.194385,0.180764,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.253288
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,801,61,-0.130999,0.335811,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.694656
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,801,61,0.1072,0.616889,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.719704
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,801,61,-0.041457,0.787424,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.787424
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,801,61,-0.114842,0.437284,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.694656
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,801,61,-0.113402,0.424557,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.694656
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,801,61,-0.165027,0.203544,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.694656
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,801,61,0.107251,0.496183,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.694656
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,none,273,53,-0.296534,0.073518,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.128656
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,none,273,53,0.10535,0.489955,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.613195
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,none,273,53,-0.044078,0.787026,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.787026
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,none,273,53,-0.265737,0.063278,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.128656
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,none,273,53,-0.281711,0.071807,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.128656
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,none,273,53,-0.342588,0.038344,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.128656
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,none,273,53,0.109575,0.525596,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.613195
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,273,53,-0.318336,0.037557,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.071686
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,273,53,0.092352,0.523998,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.611332
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,273,53,-0.062307,0.681369,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.681369
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,273,53,-0.286341,0.035286,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.071686
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,273,53,-0.305117,0.040963,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.071686
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,273,53,-0.369463,0.010817,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.071686
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,273,53,0.122011,0.456594,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.611332
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,273,53,-0.126647,0.434867,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.608814
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,273,53,0.26897,0.079002,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.344448
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,273,53,-0.076194,0.695425,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.708501
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,273,53,-0.228012,0.098973,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.344448
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,273,53,-0.167835,0.289479,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.506589
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,273,53,-0.200767,0.147621,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.344448
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,273,53,0.064383,0.708501,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.708501
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,273,53,-0.320879,0.042679,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.135464
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,273,53,0.12646,0.364974,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.510964
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,273,53,-0.004792,0.976264,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.976264
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,273,53,-0.171405,0.24809,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.434157
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,273,53,-0.286963,0.058056,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.135464
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,273,53,-0.309314,0.04814,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.135464
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,273,53,0.021619,0.90086,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.976264
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,273,53,-0.307521,0.033243,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.116352
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,273,53,0.13444,0.307513,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.430519
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,273,53,0.005818,0.968443,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.968443
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,273,53,-0.158677,0.248133,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.430519
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,273,53,-0.273588,0.054455,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.127061
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,273,53,-0.292889,0.029862,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.116352
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,273,53,0.014947,0.929116,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.968443
+Validation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,273,53,-0.156267,0.291891,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.51081
+Agree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,273,53,0.280187,0.037646,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.26352
+Disagree,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,273,53,-0.012777,0.941999,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.976727
+Flatter,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,273,53,-0.122619,0.384474,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.538264
+Enthusiasm,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,273,53,-0.169872,0.247957,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.51081
+Positive affirmation,Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,273,53,-0.153392,0.234731,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.51081
+Holistic (1-5),Apr15-23 (paper),Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,273,53,-0.005101,0.976727,Apr15-23 (paper)|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.976727
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),turn,none,2073,1051,0.603598,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|none,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),turn,none,2073,1051,-0.254329,1e-05,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|none,1e-05
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),turn,none,2073,1051,0.628583,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|none,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),turn,none,2073,1051,0.720231,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|none,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),turn,none,2073,1051,0.745918,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|none,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),turn,none,2073,1051,0.778022,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),turn,none,2073,1051,-0.73131,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|none,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user len,2073,1051,0.466596,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user len,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user len,2073,1051,-0.345621,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user len,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user len,2073,1051,0.384215,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user len,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user len,2073,1051,0.576528,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user len,2073,1051,0.612862,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user len,2073,1051,0.613231,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),turn,log user len,2073,1051,-0.474509,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user len,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user+asst len,2073,1051,0.498846,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user+asst len,2073,1051,-0.322125,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user+asst len,2073,1051,0.372376,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user+asst len,2073,1051,0.57115,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user+asst len,2073,1051,0.639976,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),turn,log user+asst len,2073,1051,0.618963,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),turn,log user+asst len,2073,1051,-0.452835,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,none,1502,939,0.649419,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|none,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,none,1502,939,-0.467166,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|none,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,none,1502,939,0.706363,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|none,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,none,1502,939,0.778694,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,none,1502,939,0.835544,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,none,1502,939,0.875824,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,none,1502,939,-0.843738,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|none,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user len,1502,939,0.418605,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user len,1502,939,-0.440838,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user len,1502,939,0.394239,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user len,1502,939,0.499795,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user len,1502,939,0.554647,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user len,1502,939,0.562596,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user len,1502,939,-0.465613,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user+asst len,1502,939,0.465307,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user+asst len,1502,939,-0.395964,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user+asst len,1502,939,0.361307,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user+asst len,1502,939,0.46714,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user+asst len,1502,939,0.586663,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user+asst len,1502,939,0.54223,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),cluster mean,log user+asst len,1502,939,-0.408068,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,none,1502,939,0.636231,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,none,1502,939,-0.451935,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,none,1502,939,0.715387,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,none,1502,939,0.78714,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,none,1502,939,0.820288,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,none,1502,939,0.869428,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,none,1502,939,-0.850272,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user len,1502,939,0.403184,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user len,1502,939,-0.429388,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user len,1502,939,0.399137,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user len,1502,939,0.492056,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user len,1502,939,0.537698,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user len,1502,939,0.53734,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user len,1502,939,-0.46642,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user+asst len,1502,939,0.452037,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user+asst len,1502,939,-0.375631,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user+asst len,1502,939,0.357624,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Flatter,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user+asst len,1502,939,0.451357,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user+asst len,1502,939,0.568546,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user+asst len,1502,939,0.512782,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr15-23 (paper),Apr22-27,none (pooled),first turn per cluster,log user+asst len,1502,939,-0.392268,0.0,Apr15-23 (paper)|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,none,801,179,0.106757,0.309839,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|none,0.396273
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,none,801,179,0.121231,0.236557,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|none,0.396273
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,none,801,179,0.10019,0.285168,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|none,0.396273
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,none,801,179,0.328313,0.019734,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|none,0.138141
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,none,801,179,0.139915,0.189313,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|none,0.396273
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,none,801,179,0.130487,0.339663,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|none,0.396273
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,none,801,179,-0.052034,0.621695,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|none,0.621695
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user len,801,179,0.072566,0.565965,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user len,0.728813
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user len,801,179,0.104031,0.307577,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user len,0.728813
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user len,801,179,0.063494,0.438515,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user len,0.728813
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user len,801,179,0.29766,0.075092,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user len,0.525647
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user len,801,179,0.103274,0.412923,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user len,0.728813
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user len,801,179,0.08482,0.624697,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user len,0.728813
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user len,801,179,-0.038469,0.735284,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user len,0.735284
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user+asst len,801,179,0.12301,0.266708,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.373391
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user+asst len,801,179,0.166467,0.1334,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.361694
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user+asst len,801,179,0.072165,0.421634,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.455125
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user+asst len,801,179,0.358123,0.01395,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.097648
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user+asst len,801,179,0.159601,0.155012,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.361694
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user+asst len,801,179,0.164038,0.258501,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.373391
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),turn,log user+asst len,801,179,-0.076528,0.455125,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.455125
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,none,273,115,-0.062846,0.561223,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|none,0.785712
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,none,273,115,0.137493,0.202183,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|none,0.56295
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,none,273,115,0.115182,0.321686,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|none,0.56295
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,none,273,115,0.096869,0.297848,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|none,0.56295
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,none,273,115,-0.001059,0.992206,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|none,0.992206
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,none,273,115,-0.118789,0.287545,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|none,0.56295
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,none,273,115,-0.011574,0.912359,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|none,0.992206
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user len,273,115,-0.094002,0.348126,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.633174
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user len,273,115,0.12066,0.264085,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.633174
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user len,273,115,0.084331,0.436918,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.633174
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user len,273,115,0.062818,0.452267,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.633174
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user len,273,115,-0.036897,0.710775,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.829237
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user len,273,115,-0.158822,0.120566,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.633174
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user len,273,115,0.008549,0.931129,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.931129
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user+asst len,273,115,0.047959,0.635718,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.788301
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user+asst len,273,115,0.25737,0.016836,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.117851
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user+asst len,273,115,0.081415,0.558852,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.788301
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user+asst len,273,115,0.107649,0.180191,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.63067
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user+asst len,273,115,0.056441,0.585689,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.788301
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user+asst len,273,115,-0.034155,0.699068,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.788301
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),cluster mean,log user+asst len,273,115,-0.030095,0.788301,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.788301
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,none,273,115,-0.096191,0.366381,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.512933
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,none,273,115,0.135829,0.17718,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.41342
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,none,273,115,0.159409,0.164724,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.41342
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,none,273,115,0.138062,0.141916,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.41342
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,none,273,115,-0.021273,0.841692,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.841692
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,none,273,115,-0.101335,0.349421,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.512933
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,none,273,115,-0.070887,0.500203,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.58357
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user len,273,115,-0.102805,0.288978,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.40457
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user len,273,115,0.132218,0.182226,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.40457
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user len,273,115,0.153423,0.14548,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.40457
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user len,273,115,0.131088,0.112281,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.40457
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user len,273,115,-0.028321,0.768492,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.768492
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user len,273,115,-0.109724,0.246636,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.40457
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user len,273,115,-0.067357,0.503638,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.587577
+Validation,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,273,115,0.00793,0.933413,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.933413
+Agree,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,273,115,0.24089,0.013059,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.091413
+Disagree,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,273,115,0.141779,0.25853,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.603238
+Flatter,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,273,115,0.148893,0.065642,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.229747
+Enthusiasm,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,273,115,0.03951,0.686632,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.933413
+Positive affirmation,Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,273,115,-0.01036,0.900552,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.933413
+Holistic (1-5),Apr15-23 (paper),Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,273,115,-0.06646,0.555539,Apr15-23 (paper)|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.933413
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),turn,none,2130,441,0.515627,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),turn,none,2130,441,-0.317277,3e-06,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|none,3e-06
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),turn,none,2130,441,0.598844,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),turn,none,2130,441,0.584259,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),turn,none,2130,441,0.576398,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),turn,none,2130,441,0.646767,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),turn,none,2130,441,-0.658446,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user len,2130,441,0.36178,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user len,2130,441,-0.396536,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user len,2130,441,0.348234,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user len,2130,441,0.429745,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user len,2130,441,0.436859,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user len,2130,441,0.466993,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),turn,log user len,2130,441,-0.404377,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,2130,441,0.427233,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,2130,441,-0.364364,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,2130,441,0.332463,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,2130,441,0.420342,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,2130,441,0.491415,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,2130,441,0.479617,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,2130,441,-0.366912,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,none,1639,415,0.510124,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,none,1639,415,-0.539864,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,none,1639,415,0.590167,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,none,1639,415,0.629605,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,none,1639,415,0.620385,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,none,1639,415,0.683873,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,none,1639,415,-0.742529,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1639,415,0.295323,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1639,415,-0.47277,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1639,415,0.305662,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1639,415,0.37847,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1639,415,0.366107,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1639,415,0.405494,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1639,415,-0.416127,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1639,415,0.372453,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1639,415,-0.412476,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1639,415,0.259315,6e-06,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,6e-06
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1639,415,0.330848,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1639,415,0.423449,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1639,415,0.380119,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1639,415,-0.331795,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1639,415,0.498954,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1639,415,-0.505561,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1639,415,0.597729,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1639,415,0.64162,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1639,415,0.609681,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1639,415,0.675469,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1639,415,-0.753147,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1639,415,0.284248,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1639,415,-0.451865,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1639,415,0.312235,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1639,415,0.379736,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1639,415,0.355887,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1639,415,0.386147,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1639,415,-0.421531,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1639,415,0.361416,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1639,415,-0.379455,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1639,415,0.254529,9e-06,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,9e-06
+Flatter,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1639,415,0.322625,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1639,415,0.410272,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1639,415,0.356195,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr16-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1639,415,-0.319035,0.0,Apr16-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,none,683,61,-0.158854,0.297119,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.415966
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,none,683,61,-0.05167,0.778493,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.838013
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,none,683,61,0.028555,0.838013,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.838013
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,none,683,61,-0.210141,0.19771,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.345993
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,none,683,61,-0.203849,0.157008,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.345993
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,none,683,61,-0.206672,0.194052,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.345993
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,none,683,61,0.222955,0.140718,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.345993
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,683,61,-0.220515,0.152862,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.214006
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,683,61,-0.083623,0.626751,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.73121
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,683,61,-0.032824,0.816352,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.816352
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,683,61,-0.257231,0.13497,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.214006
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,683,61,-0.262968,0.075428,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.214006
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,683,61,-0.284388,0.074307,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.214006
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,683,61,0.244544,0.094487,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.214006
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,683,61,-0.112426,0.407786,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.5709
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,683,61,-0.014948,0.940054,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.940054
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,683,61,0.026629,0.851396,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.940054
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,683,61,-0.147705,0.320888,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.561553
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,683,61,-0.178481,0.19205,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.561553
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,683,61,-0.135079,0.303579,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.561553
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,683,61,0.186815,0.223364,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.561553
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,256,53,-0.358485,0.029693,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.051962
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,256,53,0.006905,0.966804,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.966804
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,256,53,-0.050731,0.751008,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.876177
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,256,53,-0.319187,0.022061,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.051962
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,256,53,-0.370565,0.017084,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.051962
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,256,53,-0.368001,0.024287,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.051962
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,256,53,0.174583,0.307841,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.430977
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,256,53,-0.358407,0.019089,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.033405
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,256,53,0.006943,0.965147,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.965147
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,256,53,-0.050648,0.730248,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.851956
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,256,53,-0.319111,0.016451,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.033405
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,256,53,-0.370482,0.012646,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.033405
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,256,53,-0.367903,0.010377,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.033405
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,256,53,0.174538,0.286189,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.400664
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,256,53,-0.205389,0.19264,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.337119
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,256,53,0.123372,0.46868,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.546794
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,256,53,-0.041284,0.821538,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.821538
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,256,53,-0.27808,0.036845,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.213519
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,256,53,-0.283505,0.064161,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.213519
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,256,53,-0.233618,0.091508,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.213519
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,256,53,0.149268,0.369335,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.517069
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,256,53,-0.383588,0.015559,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.054456
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,256,53,0.059546,0.691652,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.806927
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,256,53,-0.01084,0.946195,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.946195
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,256,53,-0.21989,0.130825,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.228944
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,256,53,-0.372166,0.014081,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.054456
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,256,53,-0.350864,0.02436,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.05684
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,256,53,0.083745,0.62842,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.806927
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,256,53,-0.352515,0.015405,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.048334
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,256,53,0.076475,0.591388,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.798266
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,256,53,0.018213,0.899778,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.899778
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,256,53,-0.190504,0.15877,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.277847
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,256,53,-0.341668,0.016781,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.048334
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,256,53,-0.312307,0.020715,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.048334
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,256,53,0.068511,0.684228,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.798266
+Validation,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,256,53,-0.227409,0.1196,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.294627
+Agree,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,256,53,0.191078,0.194552,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.314824
+Disagree,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,256,53,0.007637,0.964448,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.964448
+Flatter,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,256,53,-0.167197,0.224875,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.314824
+Enthusiasm,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,256,53,-0.268431,0.063658,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.294627
+Positive affirmation,Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,256,53,-0.197813,0.126269,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.294627
+Holistic (1-5),Apr16-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,256,53,0.069009,0.688004,Apr16-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.802672
+Validation,Apr16-24,Apr22-27,none (pooled),turn,none,2130,1051,0.548799,0.0,Apr16-24|Apr22-27|none (pooled)|turn|none,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),turn,none,2130,1051,-0.283329,0.0,Apr16-24|Apr22-27|none (pooled)|turn|none,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),turn,none,2130,1051,0.576229,0.0,Apr16-24|Apr22-27|none (pooled)|turn|none,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),turn,none,2130,1051,0.631149,0.0,Apr16-24|Apr22-27|none (pooled)|turn|none,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),turn,none,2130,1051,0.661847,0.0,Apr16-24|Apr22-27|none (pooled)|turn|none,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),turn,none,2130,1051,0.703946,0.0,Apr16-24|Apr22-27|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),turn,none,2130,1051,-0.625374,0.0,Apr16-24|Apr22-27|none (pooled)|turn|none,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),turn,log user len,2130,1051,0.411104,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),turn,log user len,2130,1051,-0.334846,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),turn,log user len,2130,1051,0.345789,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),turn,log user len,2130,1051,0.490643,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),turn,log user len,2130,1051,0.52946,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),turn,log user len,2130,1051,0.534011,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),turn,log user len,2130,1051,-0.395925,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),turn,log user+asst len,2130,1051,0.434224,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),turn,log user+asst len,2130,1051,-0.316707,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),turn,log user+asst len,2130,1051,0.336066,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),turn,log user+asst len,2130,1051,0.483529,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),turn,log user+asst len,2130,1051,0.546699,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),turn,log user+asst len,2130,1051,0.53482,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),turn,log user+asst len,2130,1051,-0.375833,0.0,Apr16-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),cluster mean,none,1639,939,0.563447,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),cluster mean,none,1639,939,-0.469595,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),cluster mean,none,1639,939,0.609768,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),cluster mean,none,1639,939,0.661716,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),cluster mean,none,1639,939,0.716712,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),cluster mean,none,1639,939,0.745504,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),cluster mean,none,1639,939,-0.716005,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),cluster mean,log user len,1639,939,0.34784,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),cluster mean,log user len,1639,939,-0.384598,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),cluster mean,log user len,1639,939,0.323302,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),cluster mean,log user len,1639,939,0.403237,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),cluster mean,log user len,1639,939,0.453699,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),cluster mean,log user len,1639,939,0.449105,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),cluster mean,log user len,1639,939,-0.380937,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1639,939,0.382777,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1639,939,-0.345658,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1639,939,0.2947,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1639,939,0.372802,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1639,939,0.474942,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1639,939,0.427455,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1639,939,-0.32809,0.0,Apr16-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),first turn per cluster,none,1639,939,0.553207,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),first turn per cluster,none,1639,939,-0.447001,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),first turn per cluster,none,1639,939,0.618223,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),first turn per cluster,none,1639,939,0.66928,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),first turn per cluster,none,1639,939,0.706042,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),first turn per cluster,none,1639,939,0.738278,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),first turn per cluster,none,1639,939,-0.721049,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user len,1639,939,0.33547,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user len,1639,939,-0.371956,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user len,1639,939,0.329641,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user len,1639,939,0.399249,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user len,1639,939,0.4408,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user len,1639,939,0.430324,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user len,1639,939,-0.380112,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1639,939,0.371477,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1639,939,-0.325449,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1639,939,0.29446,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Flatter,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1639,939,0.362742,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1639,939,0.460979,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1639,939,0.405507,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr16-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1639,939,-0.315506,0.0,Apr16-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr16-24,Apr22-27,excl templated (H&T),turn,none,683,179,0.113396,0.274209,Apr16-24|Apr22-27|excl templated (H&T)|turn|none,0.394963
+Agree,Apr16-24,Apr22-27,excl templated (H&T),turn,none,683,179,0.06125,0.519034,Apr16-24|Apr22-27|excl templated (H&T)|turn|none,0.605539
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),turn,none,683,179,0.127103,0.151498,Apr16-24|Apr22-27|excl templated (H&T)|turn|none,0.394963
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),turn,none,683,179,0.286823,0.029439,Apr16-24|Apr22-27|excl templated (H&T)|turn|none,0.206071
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),turn,none,683,179,0.10424,0.282116,Apr16-24|Apr22-27|excl templated (H&T)|turn|none,0.394963
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),turn,none,683,179,0.148564,0.251736,Apr16-24|Apr22-27|excl templated (H&T)|turn|none,0.394963
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),turn,none,683,179,0.0039,0.969982,Apr16-24|Apr22-27|excl templated (H&T)|turn|none,0.969982
+Validation,Apr16-24,Apr22-27,excl templated (H&T),turn,log user len,683,179,0.082037,0.507233,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user len,0.726846
+Agree,Apr16-24,Apr22-27,excl templated (H&T),turn,log user len,683,179,0.046954,0.623011,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user len,0.726846
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),turn,log user len,683,179,0.091855,0.234427,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user len,0.726846
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),turn,log user len,683,179,0.261614,0.09175,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user len,0.64225
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),turn,log user len,683,179,0.072249,0.538128,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user len,0.726846
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),turn,log user len,683,179,0.109472,0.50235,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user len,0.726846
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),turn,log user len,683,179,0.01429,0.897784,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user len,0.897784
+Validation,Apr16-24,Apr22-27,excl templated (H&T),turn,log user+asst len,683,179,0.138916,0.180472,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.315826
+Agree,Apr16-24,Apr22-27,excl templated (H&T),turn,log user+asst len,683,179,0.083011,0.393203,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.458737
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),turn,log user+asst len,683,179,0.119837,0.11895,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.315826
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),turn,log user+asst len,683,179,0.320982,0.017872,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.125101
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),turn,log user+asst len,683,179,0.11667,0.271406,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.379968
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),turn,log user+asst len,683,179,0.19117,0.157268,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.315826
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),turn,log user+asst len,683,179,-0.010796,0.916016,Apr16-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.916016
+Validation,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,none,256,115,-0.126011,0.21456,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.659692
+Agree,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,none,256,115,0.039514,0.713226,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.713226
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,none,256,115,0.104138,0.316104,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.659692
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,none,256,115,0.036825,0.660629,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.713226
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,none,256,115,-0.086494,0.376967,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.659692
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,none,256,115,-0.147445,0.157665,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.659692
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),cluster mean,none,256,115,0.053205,0.588884,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.713226
+Validation,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user len,256,115,-0.135607,0.15493,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.542254
+Agree,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user len,256,115,0.035243,0.744157,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.744157
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user len,256,115,0.092898,0.342955,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.600171
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user len,256,115,0.026132,0.740417,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.744157
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user len,256,115,-0.097486,0.291084,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.600171
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user len,256,115,-0.15993,0.099437,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.542254
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user len,256,115,0.059404,0.530475,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.742665
+Validation,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,256,115,-0.023097,0.799205,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.799205
+Agree,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,256,115,0.125885,0.255751,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.772435
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,256,115,0.105064,0.396242,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.772435
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,256,115,0.058808,0.42426,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.772435
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,256,115,-0.041011,0.652908,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.772435
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,256,115,-0.061217,0.464872,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.772435
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,256,115,0.044545,0.662087,Apr16-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.772435
+Validation,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,none,256,115,-0.157139,0.115877,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.372417
+Agree,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,none,256,115,0.066783,0.511222,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.596425
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,none,256,115,0.15081,0.146924,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.372417
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,none,256,115,0.086324,0.31137,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.435918
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,none,256,115,-0.101106,0.298308,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.435918
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,none,256,115,-0.143383,0.159607,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.372417
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,none,256,115,-0.009334,0.925307,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.925307
+Validation,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,256,115,-0.145391,0.115156,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.354975
+Agree,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,256,115,0.072582,0.46822,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.546257
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,256,115,0.162859,0.090132,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.354975
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,256,115,0.098771,0.202843,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.354975
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,256,115,-0.088691,0.322952,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.452133
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,256,115,-0.12833,0.158399,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.354975
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,256,115,-0.015557,0.872911,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.872911
+Validation,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,256,115,-0.054841,0.522959,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.725482
+Agree,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,256,115,0.156733,0.114194,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.40608
+Disagree,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,256,115,0.156524,0.174034,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.40608
+Flatter,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,256,115,0.108103,0.147232,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.40608
+Enthusiasm,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,256,115,-0.043253,0.621842,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.725482
+Positive affirmation,Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,256,115,-0.047995,0.542466,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.725482
+Holistic (1-5),Apr16-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,256,115,-0.00027,0.997962,Apr16-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.997962
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),turn,none,1679,441,0.716392,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),turn,none,1679,441,-0.317916,2.2e-05,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|none,2.2e-05
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),turn,none,1679,441,0.962383,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),turn,none,1679,441,1.053407,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),turn,none,1679,441,0.876042,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),turn,none,1679,441,0.998841,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),turn,none,1679,441,-1.045559,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user len,1679,441,0.672867,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user len,1679,441,-0.608382,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user len,1679,441,0.85767,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user len,1679,441,1.087935,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user len,1679,441,0.919679,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user len,1679,441,1.02022,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),turn,log user len,1679,441,-0.851614,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user+asst len,1679,441,0.799534,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user+asst len,1679,441,-0.5788,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user+asst len,1679,441,0.863889,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user+asst len,1679,441,1.117157,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user+asst len,1679,441,1.05356,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),turn,log user+asst len,1679,441,1.089653,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),turn,log user+asst len,1679,441,-0.838686,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,none,1158,415,0.79716,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,none,1158,415,-0.671207,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,none,1158,415,1.215571,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,none,1158,415,1.282898,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,none,1158,415,1.086495,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,none,1158,415,1.261144,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,none,1158,415,-1.355102,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user len,1158,415,0.626431,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user len,1158,415,-0.894056,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user len,1158,415,1.020545,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user len,1158,415,1.171812,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user len,1158,415,0.944127,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user len,1158,415,1.137947,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user len,1158,415,-1.030289,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1158,415,0.795589,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1158,415,-0.841295,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1158,415,0.985826,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1158,415,1.146725,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1158,415,1.117738,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1158,415,1.169931,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1158,415,-0.947472,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,none,1158,415,0.775897,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,none,1158,415,-0.635793,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,none,1158,415,1.233757,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,none,1158,415,1.300931,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,none,1158,415,1.055862,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,none,1158,415,1.240688,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,none,1158,415,-1.378262,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1158,415,0.592959,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1158,415,-0.841549,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1158,415,1.005228,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1158,415,1.132495,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1158,415,0.893418,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1158,415,1.047662,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1158,415,-1.022422,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1158,415,0.774628,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1158,415,-0.775919,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1158,415,0.956612,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Flatter,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1158,415,1.098453,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1158,415,1.076096,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1158,415,1.08152,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr15-21,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1158,415,-0.907379,0.0,Apr15-21|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,none,709,61,-0.12068,0.416605,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.774834
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,none,709,61,0.031452,0.859687,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.882768
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,none,709,61,0.020998,0.882768,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.882768
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,none,709,61,-0.074154,0.658,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.882768
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,none,709,61,-0.112708,0.442762,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.774834
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,none,709,61,-0.164179,0.289229,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.774834
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,none,709,61,0.136653,0.381461,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.774834
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user len,709,61,-0.185726,0.210016,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.458094
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user len,709,61,-0.009655,0.952967,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.952967
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user len,709,61,-0.033968,0.8092,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.944066
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user len,709,61,-0.130497,0.457277,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.640188
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user len,709,61,-0.175236,0.233587,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.458094
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user len,709,61,-0.255347,0.093231,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.458094
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user len,709,61,0.167104,0.261768,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.458094
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,709,61,-0.08995,0.5155,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.983183
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,709,61,0.124382,0.5678,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.983183
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,709,61,-0.013925,0.931838,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.983183
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,709,61,0.003278,0.983183,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.983183
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,709,61,-0.051348,0.724917,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.983183
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,709,61,-0.111498,0.395574,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.983183
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,709,61,0.053919,0.743809,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.983183
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,none,231,53,-0.262149,0.120895,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.373681
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,none,231,53,0.124208,0.42396,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.593544
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,none,231,53,0.015072,0.932894,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.932894
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,none,231,53,-0.161731,0.303275,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.530732
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,none,231,53,-0.227224,0.160149,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.373681
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,none,231,53,-0.298145,0.078203,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.373681
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,none,231,53,0.06959,0.694625,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.810396
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,231,53,-0.308451,0.04888,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.171079
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,231,53,0.095407,0.52552,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.68101
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,231,53,-0.016243,0.923813,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.923813
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,231,53,-0.195271,0.183447,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.321032
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,231,53,-0.271238,0.077576,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.181011
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,231,53,-0.352638,0.019338,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.135367
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,231,53,0.092092,0.583723,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.68101
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,231,53,-0.0612,0.725485,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.981541
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,231,53,0.312665,0.04804,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.336278
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,231,53,-0.01868,0.936183,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.981541
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,231,53,-0.074582,0.644531,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.981541
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,231,53,-0.07012,0.689846,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.981541
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,231,53,-0.135406,0.347153,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.981541
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,231,53,-0.004362,0.981541,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.981541
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,231,53,-0.290486,0.071371,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.302785
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,231,53,0.139633,0.323812,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.566671
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,231,53,0.069079,0.695794,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.811759
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,231,53,-0.063611,0.695331,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.811759
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,231,53,-0.235588,0.129765,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.302785
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,231,53,-0.264172,0.098402,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.302785
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,231,53,-0.019205,0.914824,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.914824
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,231,53,-0.298782,0.042619,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.172101
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,231,53,0.13444,0.320036,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.560063
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,231,53,0.06333,0.700234,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.816939
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,231,53,-0.070474,0.637961,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.816939
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,231,53,-0.243129,0.095356,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.222498
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,231,53,-0.27406,0.049172,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.172101
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,231,53,-0.015304,0.929576,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.929576
+Validation,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,231,53,-0.111047,0.473112,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.894923
+Agree,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,231,53,0.312834,0.022023,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.154162
+Disagree,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,231,53,0.058258,0.776849,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.894923
+Flatter,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,231,53,0.021294,0.894923,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.894923
+Enthusiasm,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,231,53,-0.093976,0.549596,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.894923
+Positive affirmation,Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,231,53,-0.096055,0.469346,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.894923
+Holistic (1-5),Apr15-21,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,231,53,-0.079085,0.676213,Apr15-21|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.894923
+Validation,Apr15-21,Apr22-27,none (pooled),turn,none,1679,1051,0.755955,0.0,Apr15-21|Apr22-27|none (pooled)|turn|none,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),turn,none,1679,1051,-0.291582,1.6e-05,Apr15-21|Apr22-27|none (pooled)|turn|none,1.6e-05
+Disagree,Apr15-21,Apr22-27,none (pooled),turn,none,1679,1051,0.857244,0.0,Apr15-21|Apr22-27|none (pooled)|turn|none,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),turn,none,1679,1051,1.009007,0.0,Apr15-21|Apr22-27|none (pooled)|turn|none,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),turn,none,1679,1051,0.96429,0.0,Apr15-21|Apr22-27|none (pooled)|turn|none,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),turn,none,1679,1051,1.032304,0.0,Apr15-21|Apr22-27|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),turn,none,1679,1051,-0.965404,0.0,Apr15-21|Apr22-27|none (pooled)|turn|none,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),turn,log user len,1679,1051,0.661849,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user len,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),turn,log user len,1679,1051,-0.475402,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user len,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),turn,log user len,1679,1051,0.639765,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user len,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),turn,log user len,1679,1051,0.932714,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),turn,log user len,1679,1051,0.913701,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),turn,log user len,1679,1051,0.936629,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),turn,log user len,1679,1051,-0.713394,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user len,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),turn,log user+asst len,1679,1051,0.708158,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),turn,log user+asst len,1679,1051,-0.450173,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),turn,log user+asst len,1679,1051,0.629408,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),turn,log user+asst len,1679,1051,0.931136,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),turn,log user+asst len,1679,1051,0.957543,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),turn,log user+asst len,1679,1051,0.951527,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),turn,log user+asst len,1679,1051,-0.69216,0.0,Apr15-21|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),cluster mean,none,1158,939,0.862368,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|none,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),cluster mean,none,1158,939,-0.599257,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|none,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),cluster mean,none,1158,939,1.058727,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|none,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),cluster mean,none,1158,939,1.159607,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),cluster mean,none,1158,939,1.178372,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),cluster mean,none,1158,939,1.260718,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),cluster mean,none,1158,939,-1.212716,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|none,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),cluster mean,log user len,1158,939,0.644361,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),cluster mean,log user len,1158,939,-0.676443,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),cluster mean,log user len,1158,939,0.749008,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),cluster mean,log user len,1158,939,0.911648,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),cluster mean,log user len,1158,939,0.935101,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),cluster mean,log user len,1158,939,0.980191,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),cluster mean,log user len,1158,939,-0.792986,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),cluster mean,log user+asst len,1158,939,0.719829,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),cluster mean,log user+asst len,1158,939,-0.625432,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),cluster mean,log user+asst len,1158,939,0.711389,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),cluster mean,log user+asst len,1158,939,0.874984,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),cluster mean,log user+asst len,1158,939,0.999359,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),cluster mean,log user+asst len,1158,939,0.966269,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),cluster mean,log user+asst len,1158,939,-0.721391,0.0,Apr15-21|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),first turn per cluster,none,1158,939,0.842922,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),first turn per cluster,none,1158,939,-0.578796,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),first turn per cluster,none,1158,939,1.074261,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),first turn per cluster,none,1158,939,1.170637,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),first turn per cluster,none,1158,939,1.151423,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),first turn per cluster,none,1158,939,1.247618,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),first turn per cluster,none,1158,939,-1.222958,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user len,1158,939,0.616471,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user len,1158,939,-0.655077,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user len,1158,939,0.752068,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user len,1158,939,0.890307,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user len,1158,939,0.897611,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user len,1158,939,0.926065,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user len,1158,939,-0.787711,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1158,939,0.699255,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1158,939,-0.591553,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1158,939,0.702573,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Flatter,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1158,939,0.84296,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1158,939,0.965157,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1158,939,0.908269,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr15-21,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1158,939,-0.691544,0.0,Apr15-21|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr15-21,Apr22-27,excl templated (H&T),turn,none,709,179,0.149431,0.235996,Apr15-21|Apr22-27|excl templated (H&T)|turn|none,0.30495
+Agree,Apr15-21,Apr22-27,excl templated (H&T),turn,none,709,179,0.137726,0.216968,Apr15-21|Apr22-27|excl templated (H&T)|turn|none,0.30495
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),turn,none,709,179,0.118365,0.261385,Apr15-21|Apr22-27|excl templated (H&T)|turn|none,0.30495
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),turn,none,709,179,0.460569,0.025282,Apr15-21|Apr22-27|excl templated (H&T)|turn|none,0.176974
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),turn,none,709,179,0.190514,0.133626,Apr15-21|Apr22-27|excl templated (H&T)|turn|none,0.30495
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),turn,none,709,179,0.194807,0.260584,Apr15-21|Apr22-27|excl templated (H&T)|turn|none,0.30495
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),turn,none,709,179,-0.086588,0.495463,Apr15-21|Apr22-27|excl templated (H&T)|turn|none,0.495463
+Validation,Apr15-21,Apr22-27,excl templated (H&T),turn,log user len,709,179,0.112678,0.467591,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user len,0.597912
+Agree,Apr15-21,Apr22-27,excl templated (H&T),turn,log user len,709,179,0.117384,0.303697,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user len,0.597912
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),turn,log user len,709,179,0.081268,0.380178,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user len,0.597912
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),turn,log user len,709,179,0.427814,0.072782,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user len,0.509474
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),turn,log user len,709,179,0.152827,0.317692,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user len,0.597912
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),turn,log user len,709,179,0.144624,0.512496,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user len,0.597912
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),turn,log user len,709,179,-0.070815,0.610436,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user len,0.610436
+Validation,Apr15-21,Apr22-27,excl templated (H&T),turn,log user+asst len,709,179,0.164194,0.216967,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.304092
+Agree,Apr15-21,Apr22-27,excl templated (H&T),turn,log user+asst len,709,179,0.182618,0.124731,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.291038
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),turn,log user+asst len,709,179,0.091823,0.370133,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.370133
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),turn,log user+asst len,709,179,0.496805,0.014933,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.10453
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),turn,log user+asst len,709,179,0.213794,0.100622,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.291038
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),turn,log user+asst len,709,179,0.224441,0.217209,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.304092
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),turn,log user+asst len,709,179,-0.119554,0.327361,Apr15-21|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.370133
+Validation,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,none,231,115,-0.029296,0.811546,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|none,0.811546
+Agree,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,none,231,115,0.15703,0.201546,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|none,0.507976
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,none,231,115,0.176525,0.217704,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|none,0.507976
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,none,231,115,0.221795,0.06666,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|none,0.466617
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,none,231,115,0.053892,0.666713,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|none,0.777832
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,none,231,115,-0.074727,0.557884,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|none,0.777832
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),cluster mean,none,231,115,-0.053256,0.666197,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|none,0.777832
+Validation,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user len,231,115,-0.083639,0.464923,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.650892
+Agree,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user len,231,115,0.126992,0.311975,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.59559
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user len,231,115,0.127316,0.340337,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.59559
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user len,231,115,0.169325,0.100711,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.59559
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user len,231,115,-0.00406,0.970988,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.970988
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user len,231,115,-0.142609,0.228112,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.59559
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user len,231,115,-0.021131,0.855076,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.970988
+Validation,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,231,115,0.101293,0.403573,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.620399
+Agree,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,231,115,0.298255,0.017214,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.061636
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,231,115,0.133563,0.453454,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.620399
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,231,115,0.255787,0.01761,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.061636
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,231,115,0.13422,0.278988,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.620399
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,231,115,0.019137,0.851538,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.851538
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,231,115,-0.087351,0.53177,Apr15-21|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.620399
+Validation,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,none,231,115,-0.067521,0.579001,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.754776
+Agree,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,none,231,115,0.150307,0.189406,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.441948
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,none,231,115,0.23376,0.101159,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.354055
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,none,231,115,0.260453,0.031944,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.223606
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,none,231,115,0.029254,0.811846,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.811846
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,none,231,115,-0.057077,0.646951,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.754776
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,none,231,115,-0.113436,0.368837,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.645464
+Validation,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user len,231,115,-0.095422,0.387706,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.480878
+Agree,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user len,231,115,0.134572,0.240691,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.480878
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user len,231,115,0.210115,0.107578,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.376524
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user len,231,115,0.233201,0.022392,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.156746
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user len,231,115,0.001383,0.989739,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.989739
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user len,231,115,-0.091744,0.400398,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.480878
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user len,231,115,-0.099058,0.412181,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.480878
+Validation,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,231,115,0.0445,0.687396,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.695517
+Agree,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,231,115,0.270742,0.015264,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.053422
+Disagree,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,231,115,0.207567,0.19247,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.449096
+Flatter,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,231,115,0.285222,0.007078,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.049545
+Enthusiasm,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,231,115,0.101424,0.37301,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.522213
+Positive affirmation,Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,231,115,0.037133,0.695517,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.695517
+Holistic (1-5),Apr15-21,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,231,115,-0.125008,0.372027,Apr15-21|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.522213
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),turn,none,1741,441,0.518089,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),turn,none,1741,441,-0.416706,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),turn,none,1741,441,0.575004,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),turn,none,1741,441,0.598203,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),turn,none,1741,441,0.602339,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),turn,none,1741,441,0.682673,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),turn,none,1741,441,-0.692293,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|none,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user len,1741,441,0.386333,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user len,1741,441,-0.435653,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user len,1741,441,0.353193,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user len,1741,441,0.452568,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user len,1741,441,0.473099,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user len,1741,441,0.521811,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),turn,log user len,1741,441,-0.449423,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user len,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,1741,441,0.44061,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,1741,441,-0.411495,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,1741,441,0.334691,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,1741,441,0.436038,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,1741,441,0.517739,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,1741,441,0.521144,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),turn,log user+asst len,1741,441,-0.408173,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,none,1491,415,0.524518,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,none,1491,415,-0.620713,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,none,1491,415,0.580527,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,none,1491,415,0.644042,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,none,1491,415,0.64982,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,none,1491,415,0.724108,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,none,1491,415,-0.759866,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|none,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1491,415,0.30863,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1491,415,-0.495131,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1491,415,0.30481,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1491,415,0.388507,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1491,415,0.385848,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1491,415,0.433143,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user len,1491,415,-0.439439,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1491,415,0.376797,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1491,415,-0.431054,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1491,415,0.253575,7e-06,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,7e-06
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1491,415,0.333249,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1491,415,0.433778,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1491,415,0.393508,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),cluster mean,log user+asst len,1491,415,-0.349001,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1491,415,0.521176,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1491,415,-0.616722,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1491,415,0.582232,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1491,415,0.650787,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1491,415,0.647176,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1491,415,0.720911,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,none,1491,415,-0.757497,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1491,415,0.299976,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1491,415,-0.476518,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1491,415,0.304,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1491,415,0.38671,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1491,415,0.375048,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1491,415,0.418874,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user len,1491,415,-0.435859,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1491,415,0.368997,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1491,415,-0.405457,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1491,415,0.246593,1.3e-05,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,1.3e-05
+Flatter,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1491,415,0.325534,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1491,415,0.422572,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1491,415,0.375407,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr19-24,Apr25-27 (paper),none (pooled),first turn per cluster,log user+asst len,1491,415,-0.333791,0.0,Apr19-24|Apr25-27 (paper)|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,none,335,61,-0.263479,0.116296,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.162868
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,none,335,61,-0.04075,0.838575,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.838575
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,none,335,61,-0.031201,0.825272,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.838575
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,none,335,61,-0.336992,0.075177,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.162868
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,none,335,61,-0.346559,0.021137,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.14796
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,none,335,61,-0.324113,0.073156,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.162868
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,none,335,61,0.263236,0.116334,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|none,0.162868
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,335,61,-0.330884,0.049147,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.086007
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,335,61,-0.065033,0.738566,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.738566
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,335,61,-0.126582,0.408082,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.476096
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,335,61,-0.397366,0.048907,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.086007
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,335,61,-0.414505,0.007532,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.052725
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,335,61,-0.407413,0.026424,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.086007
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user len,335,61,0.297095,0.065577,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user len,0.091807
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,335,61,-0.236967,0.102448,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.161205
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,335,61,-0.043962,0.839833,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.839833
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,335,61,-0.049584,0.73924,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.839833
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,335,61,-0.300242,0.08908,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.161205
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,335,61,-0.347102,0.014476,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.10133
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,335,61,-0.264265,0.076161,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.161205
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),turn,log user+asst len,335,61,0.25323,0.115146,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|turn|log user+asst len,0.161205
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,132,53,-0.445768,0.008426,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.019661
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,132,53,-0.018469,0.917377,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.917377
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,132,53,-0.113387,0.506743,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.591201
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,132,53,-0.440693,0.002521,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.008823
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,132,53,-0.528192,0.001127,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.007891
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,132,53,-0.421444,0.012798,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.022397
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,none,132,53,0.188972,0.281662,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|none,0.394327
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,132,53,-0.429798,0.006195,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.013057
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,132,53,-0.012252,0.94323,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.94323
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,132,53,-0.091719,0.556375,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.649105
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,132,53,-0.422698,0.00228,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.007981
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,132,53,-0.510147,0.000827,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.00579
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,132,53,-0.400238,0.007461,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.013057
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user len,132,53,0.178459,0.29115,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user len,0.407609
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,132,53,-0.331264,0.028788,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.055272
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,132,53,0.051278,0.779903,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.812928
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,132,53,-0.036641,0.812928,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.812928
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,132,53,-0.37136,0.006066,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.021229
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,132,53,-0.445088,0.002717,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.019021
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,132,53,-0.303292,0.031584,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.055272
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),cluster mean,log user+asst len,132,53,0.131613,0.419857,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|cluster mean|log user+asst len,0.5878
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,132,53,-0.455152,0.006026,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.021091
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,132,53,-0.003199,0.985643,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.985643
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,132,53,-0.097914,0.56595,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.660275
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,132,53,-0.350808,0.018852,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.03299
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,132,53,-0.508129,0.001489,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.010424
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,132,53,-0.40125,0.014582,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.03299
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,none,132,53,0.14248,0.419826,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|none,0.587757
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,132,53,-0.402548,0.008921,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.031223
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,132,53,0.01181,0.944518,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.944518
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,132,53,-0.035502,0.812147,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.944518
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,132,53,-0.29562,0.032898,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.057571
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,132,53,-0.450409,0.002438,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.017063
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,132,53,-0.33016,0.02117,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.049397
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user len,132,53,0.116014,0.50811,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user len,0.711354
+Validation,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,132,53,-0.317829,0.033178,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.112252
+Agree,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,132,53,0.071741,0.684194,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.798227
+Disagree,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,132,53,-0.000508,0.997265,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.997265
+Flatter,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,132,53,-0.261169,0.05907,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.112252
+Enthusiasm,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,132,53,-0.393474,0.006765,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.047355
+Positive affirmation,Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,132,53,-0.251705,0.064144,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.112252
+Holistic (1-5),Apr19-24,Apr25-27 (paper),excl templated (H&T),first turn per cluster,log user+asst len,132,53,0.104283,0.544749,Apr19-24|Apr25-27 (paper)|excl templated (H&T)|first turn per cluster|log user+asst len,0.762649
+Validation,Apr19-24,Apr22-27,none (pooled),turn,none,1741,1051,0.555925,0.0,Apr19-24|Apr22-27|none (pooled)|turn|none,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),turn,none,1741,1051,-0.3687,0.0,Apr19-24|Apr22-27|none (pooled)|turn|none,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),turn,none,1741,1051,0.552239,0.0,Apr19-24|Apr22-27|none (pooled)|turn|none,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),turn,none,1741,1051,0.644016,0.0,Apr19-24|Apr22-27|none (pooled)|turn|none,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),turn,none,1741,1051,0.691492,0.0,Apr19-24|Apr22-27|none (pooled)|turn|none,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),turn,none,1741,1051,0.741515,0.0,Apr19-24|Apr22-27|none (pooled)|turn|none,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),turn,none,1741,1051,-0.643303,0.0,Apr19-24|Apr22-27|none (pooled)|turn|none,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),turn,log user len,1741,1051,0.450117,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),turn,log user len,1741,1051,-0.378509,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),turn,log user len,1741,1051,0.370692,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),turn,log user len,1741,1051,0.52853,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),turn,log user len,1741,1051,0.583329,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),turn,log user len,1741,1051,0.606101,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),turn,log user len,1741,1051,-0.451945,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user len,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),turn,log user+asst len,1741,1051,0.464107,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),turn,log user+asst len,1741,1051,-0.367687,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),turn,log user+asst len,1741,1051,0.363532,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),turn,log user+asst len,1741,1051,0.522066,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),turn,log user+asst len,1741,1051,0.593506,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),turn,log user+asst len,1741,1051,0.603673,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),turn,log user+asst len,1741,1051,-0.436994,0.0,Apr19-24|Apr22-27|none (pooled)|turn|log user+asst len,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),cluster mean,none,1491,939,0.580458,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),cluster mean,none,1491,939,-0.535115,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),cluster mean,none,1491,939,0.599863,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),cluster mean,none,1491,939,0.67566,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),cluster mean,none,1491,939,0.748272,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),cluster mean,none,1491,939,0.785902,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),cluster mean,none,1491,939,-0.726558,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|none,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),cluster mean,log user len,1491,939,0.375394,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),cluster mean,log user len,1491,939,-0.412376,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),cluster mean,log user len,1491,939,0.335439,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),cluster mean,log user len,1491,939,0.428266,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),cluster mean,log user len,1491,939,0.491744,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),cluster mean,log user len,1491,939,0.495954,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),cluster mean,log user len,1491,939,-0.413955,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user len,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1491,939,0.404015,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1491,939,-0.375711,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1491,939,0.30786,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1491,939,0.397949,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1491,939,0.507715,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1491,939,0.470837,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),cluster mean,log user+asst len,1491,939,-0.363604,0.0,Apr19-24|Apr22-27|none (pooled)|cluster mean|log user+asst len,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),first turn per cluster,none,1491,939,0.578073,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),first turn per cluster,none,1491,939,-0.535171,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),first turn per cluster,none,1491,939,0.602985,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),first turn per cluster,none,1491,939,0.678162,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),first turn per cluster,none,1491,939,0.74571,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),first turn per cluster,none,1491,939,0.783397,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),first turn per cluster,none,1491,939,-0.718591,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|none,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user len,1491,939,0.366215,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user len,1491,939,-0.399422,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user len,1491,939,0.334215,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user len,1491,939,0.420124,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user len,1491,939,0.479342,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user len,1491,939,0.48083,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user len,1491,939,-0.402031,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user len,0.0
+Validation,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1491,939,0.395939,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Agree,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1491,939,-0.358884,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Disagree,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1491,939,0.303267,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Flatter,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1491,939,0.386272,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Enthusiasm,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1491,939,0.495494,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Positive affirmation,Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1491,939,0.453581,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Holistic (1-5),Apr19-24,Apr22-27,none (pooled),first turn per cluster,log user+asst len,1491,939,-0.344442,0.0,Apr19-24|Apr22-27|none (pooled)|first turn per cluster|log user+asst len,0.0
+Validation,Apr19-24,Apr22-27,excl templated (H&T),turn,none,335,179,0.009428,0.928524,Apr19-24|Apr22-27|excl templated (H&T)|turn|none,0.928524
+Agree,Apr19-24,Apr22-27,excl templated (H&T),turn,none,335,179,0.075257,0.514139,Apr19-24|Apr22-27|excl templated (H&T)|turn|none,0.920348
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),turn,none,335,179,0.065059,0.412165,Apr19-24|Apr22-27|excl templated (H&T)|turn|none,0.920348
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),turn,none,335,179,0.152161,0.098812,Apr19-24|Apr22-27|excl templated (H&T)|turn|none,0.691685
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),turn,none,335,179,-0.0377,0.675519,Apr19-24|Apr22-27|excl templated (H&T)|turn|none,0.920348
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),turn,none,335,179,0.030609,0.78887,Apr19-24|Apr22-27|excl templated (H&T)|turn|none,0.920348
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),turn,none,335,179,0.024497,0.787598,Apr19-24|Apr22-27|excl templated (H&T)|turn|none,0.920348
+Validation,Apr19-24,Apr22-27,excl templated (H&T),turn,log user len,335,179,-0.031458,0.775667,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user len,0.965933
+Agree,Apr19-24,Apr22-27,excl templated (H&T),turn,log user len,335,179,0.063511,0.573148,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user len,0.965933
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),turn,log user len,335,179,0.003494,0.965933,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user len,0.965933
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),turn,log user len,335,179,0.114449,0.288577,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user len,0.965933
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),turn,log user len,335,179,-0.082653,0.419397,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user len,0.965933
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),turn,log user len,335,179,-0.019231,0.884203,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user len,0.965933
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),turn,log user len,335,179,0.041956,0.66714,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user len,0.965933
+Validation,Apr19-24,Apr22-27,excl templated (H&T),turn,log user+asst len,335,179,0.025413,0.797502,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.797502
+Agree,Apr19-24,Apr22-27,excl templated (H&T),turn,log user+asst len,335,179,0.081802,0.482156,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.797502
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),turn,log user+asst len,335,179,0.04183,0.582619,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.797502
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),turn,log user+asst len,335,179,0.17809,0.067849,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.474943
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),turn,log user+asst len,335,179,-0.039311,0.694411,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.797502
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),turn,log user+asst len,335,179,0.070582,0.55177,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.797502
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),turn,log user+asst len,335,179,0.024623,0.770225,Apr19-24|Apr22-27|excl templated (H&T)|turn|log user+asst len,0.797502
+Validation,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,none,132,115,-0.215646,0.021747,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.076114
+Agree,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,none,132,115,0.014142,0.898183,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.898183
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,none,132,115,0.03723,0.688982,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.803812
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,none,132,115,-0.09851,0.187444,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.328027
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,none,132,115,-0.242221,0.008247,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.057729
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,none,132,115,-0.205519,0.044378,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.103548
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),cluster mean,none,132,115,0.069826,0.437593,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|none,0.61263
+Validation,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user len,132,115,-0.208275,0.02023,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.070805
+Agree,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user len,132,115,0.016738,0.88031,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.88031
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user len,132,115,0.04763,0.612254,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.714297
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user len,132,115,-0.089043,0.272934,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.477635
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user len,132,115,-0.233129,0.011537,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.070805
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user len,132,115,-0.195344,0.056643,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.132168
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user len,132,115,0.064279,0.472271,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user len,0.66118
+Validation,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,132,115,-0.146082,0.051496,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.180237
+Agree,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,132,115,0.061545,0.586621,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.658672
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,132,115,0.083758,0.329976,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.577457
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,132,115,-0.05507,0.459697,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.643576
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,132,115,-0.198652,0.016863,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.118041
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,132,115,-0.134208,0.119602,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.279071
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),cluster mean,log user+asst len,132,115,0.038551,0.658672,Apr19-24|Apr22-27|excl templated (H&T)|cluster mean|log user+asst len,0.658672
+Validation,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,none,132,115,-0.227507,0.015561,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.054464
+Agree,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,none,132,115,0.003244,0.97707,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.97707
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,none,132,115,0.059248,0.517972,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.653428
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,none,132,115,-0.057787,0.44095,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.653428
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,none,132,115,-0.237042,0.012023,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.054464
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,none,132,115,-0.194469,0.05394,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.125859
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,none,132,115,0.052191,0.560081,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|none,0.653428
+Validation,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,132,115,-0.18946,0.034309,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.12008
+Agree,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,132,115,0.013409,0.902196,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.902196
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,132,115,0.106666,0.220411,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.385719
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,132,115,-0.012469,0.873427,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.902196
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,132,115,-0.192009,0.033781,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.12008
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,132,115,-0.14177,0.136771,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.319133
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user len,132,115,0.030862,0.735815,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user len,0.902196
+Validation,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,132,115,-0.138375,0.075021,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.262573
+Agree,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,132,115,0.050574,0.640617,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.798678
+Disagree,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,132,115,0.126314,0.123291,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.287678
+Flatter,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,132,115,0.001828,0.980771,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.980771
+Enthusiasm,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,132,115,-0.164404,0.048033,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.262573
+Positive affirmation,Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,132,115,-0.096611,0.237838,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.416217
+Holistic (1-5),Apr19-24,Apr22-27,excl templated (H&T),first turn per cluster,log user+asst len,132,115,0.037535,0.684581,Apr19-24|Apr22-27|excl templated (H&T)|first turn per cluster|log user+asst len,0.798678
